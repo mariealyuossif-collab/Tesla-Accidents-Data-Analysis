@@ -8,9 +8,16 @@ This project focuses on performing a deep-dive analysis into Tesla accident and 
 - **🗄️ SQL (MySQL Workbench):** Used for efficient database creation and complex data querying.
 - **📊 Power BI:** Used for building an interactive, professional dashboard to track accident metrics.
 
-## 📈 Visualizations & Insights
-- **Key Insight 1:** The USA reports the highest number of accidents, highlighting the need for localized safety assessments. 🇺🇸
-- **Key Insight 2:** Significant patterns in accident frequency emerge when filtering data by year and Autopilot status, suggesting areas for further safety improvements. 🛡️
+## 📊 Visualizations & Insights
+
+**Key Insight 1:** The USA reports the highest number of accidents, highlighting the need for localized safety assessments. 🇺🇸
+![Analysis Chart](accident_chart.jpeg)
+
+**Key Insight 2:** Significant patterns in accident frequency emerge when filtering data by year and Autopilot status, suggesting areas for further safety improvements. 🛡️
+![Deaths by Year](dashboard_view.jpeg)
+
+**Project Context:**
+![Accident Scene](accident_scene.jpeg)
 
 ## 🚀 How to Explore
 1. **Python Analysis:** Open `tesla_deaths.ipynb` directly in GitHub to view the code and visual plots.
